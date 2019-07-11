@@ -1,5 +1,3 @@
-package pages.utils;
-
 import net.bytebuddy.pool.TypePool;
 import org.openqa.selenium.*;
 import org.openqa.selenium.JavascriptExecutor;
