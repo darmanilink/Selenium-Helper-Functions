@@ -8,7 +8,7 @@ My goal is to eliminate as much boilerplate as possible and make it in such a wa
 
 -C# version
 
--psuedo-switch statements in which you can map values to 1 or more lambda functions that can "call" other values (switch reusability) 
+-psuedo-switch statements in which you can map values to 1 or more lambda functions (basically a dictionary mapped to 1+ lambdas) 
 
 -wait until clickable function that actually works
 
